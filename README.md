@@ -1,11 +1,11 @@
 <!-- Animated Header -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=220&section=header&text=Mahmoud%20Al-Ajrami&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descSize=20"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=220&section=header&text=Mahmoud%20Al-Ajrami&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descSize=20" alt="Mahmoud Al-Ajrami Header"/>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=ASP.NET+Core+%7C+Angular+Developer;Building+Scalable+RESTful+APIs;Clean+Architecture+%7C+SOLID+Principles;CI%2FCD+%7C+Production+Engineering;Turning+Ideas+into+Functional+Products" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&height=50&lines=ASP.NET+Core+%7C+Angular+Developer;Building+Scalable+RESTful+APIs;Clean+Architecture+%7C+SOLID+Principles;CI%2FCD+%7C+Production+Engineering;Turning+Ideas+into+Functional+Products" alt="Typing Animation"/>
 </p>
 
 <!-- Profile Badges -->
@@ -20,52 +20,28 @@
 
 🔭 I’m currently working on **Kafeeli** and **Garson**, building role-based applications with **ASP.NET Core** and **Angular**.
 
-👯 I’m open to collaborating on impactful **open-source, .NET, Angular, and full-stack projects**.
+👯 I’m looking to collaborate on open-source **.NET**, **Angular**, and **full-stack web projects**.
 
-🤝 I’m interested in exchanging ideas around **system design, software architecture, and production engineering**.
+🤝 I’m looking for help with **Angular best practices** and **modern frontend architecture**.
 
-🎓 I mentor student teams at **TAQAT**, helping them transform ideas and requirements into functional software products.
+🌱 I’m currently learning **Angular** and strengthening my **HTML, CSS, TypeScript, and JavaScript** skills.
 
-🌱 I continuously strengthen my skills in **Angular, TypeScript, cloud deployment, and CI/CD**.
+💬 Ask me about **C#, ASP.NET Core, EF Core, SQL Server, RESTful APIs, and Clean Architecture**.
 
-💬 Ask me about **C#, ASP.NET Core, Angular, EF Core, SQL Server, RESTful APIs, and Clean Architecture**.
-
-⚡ Fun fact: I enjoy turning complex business requirements into clean, maintainable, and functional software.
+⚡ Fun fact: I enjoy turning complex requirements into clean APIs and functional products.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend & Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="Backend Technologies"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,git,github,githubactions,docker,postman,visualstudio,vscode,figma,ai&theme=dark&perline=9" alt="Technologies and Development Tools"/>
 </p>
 
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap" alt="Frontend Technologies"/>
-</p>
-
-### Tools, DevOps & Workflow
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" alt="Development Tools"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-</p>
-
-### Design
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ai" alt="Design Tools"/>
+<p align="center">
+  <strong>ASP.NET Core • Entity Framework Core • SQL Server • RESTful APIs</strong>
+  <br/>
+  <strong>Clean Architecture • SOLID Principles • Swagger • Jira • CI/CD</strong>
 </p>
 
 ---
@@ -73,18 +49,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MahmoudAjrami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180" src="https://streak-stats.demolab.com/?user=MahmoudAjrami&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MahmoudAjrami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mahmoud's GitHub Stats"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=MahmoudAjrami&theme=tokyonight&hide_border=true" alt="Mahmoud's GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAjrami&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudAjrami&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAjrami&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Mahmoud's Most Used Languages"/>
 </p>
 
 ---
@@ -103,5 +73,5 @@
 
 <!-- Animated Footer -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=120&section=footer" alt="Animated Footer"/>
 </p>
