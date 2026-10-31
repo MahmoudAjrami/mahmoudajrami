@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&height=50&lines=ASP.NET+Core+%7C+Angular+Developer;Building+Scalable+RESTful+APIs;Clean+Architecture+%7C+SOLID+Principles;CI%2FCD+%7C+Production+Engineering;Turning+Ideas+into+Functional+Products" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&height=50&lines=ASP.NET+Core+%7C+ReactJS+Developer;Building+Scalable+RESTful+APIs;Clean+Architecture+%7C+SOLID+Principles;CI%2FCD+%7C+Production+Engineering;Turning+Ideas+into+Functional+Products" alt="Typing Animation"/>
 </p>
 
 <!-- Profile Badges -->
