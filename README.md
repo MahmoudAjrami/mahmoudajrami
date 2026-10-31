@@ -35,7 +35,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,reactjs,ts,js,html,css,bootstrap,git,github,githubactions,postman,visualstudio,vscode,figma,ai&theme=dark&perline=9" alt="Technologies and Development Tools"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,bootstrap,git,github,githubactions,postman,visualstudio,vscode,figma,ai&theme=dark&perline=9" alt="Technologies and Development Tools"/>
 </p>
 
 <p align="center">
