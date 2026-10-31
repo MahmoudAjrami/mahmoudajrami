@@ -18,13 +18,13 @@
 
 ## 🚀 About Me
 
-🔭 I’m currently working on **Kafeeli** and **Garson**, building role-based applications with **ASP.NET Core** and **Angular**.
+🔭 I’m currently working on **Kafeeli** and **Garson**, building role-based applications with **ASP.NET Core** and **ReactJS**.
 
-👯 I’m looking to collaborate on open-source **.NET**, **Angular**, and **full-stack web projects**.
+👯 I’m looking to collaborate on open-source **.NET**, **ReactJS**, and **full-stack web projects**.
 
-🤝 I’m looking for help with **Angular best practices** and **modern frontend architecture**.
+🤝 I’m looking for help with **ReactJS best practices** and **modern frontend architecture**.
 
-🌱 I’m currently learning **Angular** and strengthening my **HTML, CSS, TypeScript, and JavaScript** skills.
+🌱 I’m currently learning **ReactJS** and strengthening my **HTML, CSS, TypeScript, and JavaScript** skills.
 
 💬 Ask me about **C#, ASP.NET Core, EF Core, SQL Server, RESTful APIs, and Clean Architecture**.
 
@@ -35,7 +35,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,git,github,githubactions,docker,postman,visualstudio,vscode,figma,ai&theme=dark&perline=9" alt="Technologies and Development Tools"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,reactjs,ts,js,html,css,bootstrap,git,github,githubactions,postman,visualstudio,vscode,figma,ai&theme=dark&perline=9" alt="Technologies and Development Tools"/>
 </p>
 
 <p align="center">
